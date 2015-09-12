@@ -2,7 +2,7 @@
 layout: post
 title: "Make a Pizza"
 date: 2015-08-26 11:47:00
-categories: poet
+categories: life
 featured_image: /data/20150826/6.jpg
 ---
 

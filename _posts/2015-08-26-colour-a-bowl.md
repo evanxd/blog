@@ -2,7 +2,7 @@
 layout: post
 title: "Colour a Bowl"
 date: 2015-08-26 15:13:00
-categories: poet
+categories: life
 featured_image: /data/20150826/11.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Build CR-7 3D Printer"
 date: 2015-08-29 15:13:00
-categories: poet
+categories: hack
 featured_image: /data/20150829/7.jpg
 ---
 
