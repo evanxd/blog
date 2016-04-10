@@ -224,7 +224,6 @@ header ul.meta li {
 header ul.meta li span {
   margin-right: 10px;
   font-style: italic;
-  color: rgba(255, 255, 255, .5);
 }
 
 /* Pagination */
