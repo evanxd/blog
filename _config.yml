@@ -6,3 +6,4 @@ sidebar_image: /images/cover.jpg
 # Build settings
 markdown: redcarpet
 highlighter: pygments
+permalink: /:year/:month/:day/:title
