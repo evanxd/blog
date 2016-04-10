@@ -7,6 +7,7 @@ featured_image: /data/20150723/batman.jpg
 ---
 
 Went to [CITYLINK](http://www.citylink.tw) to have a lunch today, and saw many big LEGO creations there.
+![Batman](/data/20150723/batman.jpg)
 
 ## Gundam
 ![Gundam1](/data/20150723/gundam-1.jpg)
@@ -22,9 +23,6 @@ Went to [CITYLINK](http://www.citylink.tw) to have a lunch today, and saw many b
 ![Train2](/data/20150723/train-2.jpg)
 ![Train3](/data/20150723/train-3.jpg)
 ![Train4](/data/20150723/train-4.jpg)
-
-## Batman
-![Batman](/data/20150723/batman.jpg)
 
 ## SpongeBob
 ![SpongeBob](/data/20150723/sponge-bob.jpg)
