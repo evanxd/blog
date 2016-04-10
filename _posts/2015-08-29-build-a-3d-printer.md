@@ -7,7 +7,6 @@ featured_image: /data/20150829/7.jpg
 ---
 
 Build CR-7 3D Printer.
-
 ![](/data/20150829/1.jpg)
 ![](/data/20150829/2.jpg)
 ![](/data/20150829/3.jpg)

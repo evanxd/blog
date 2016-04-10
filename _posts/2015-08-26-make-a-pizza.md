@@ -7,7 +7,6 @@ featured_image: /data/20150826/6.jpg
 ---
 
 Make a pizza.
-
 ![](/data/20150826/1.jpg)
 ![](/data/20150826/2.jpg)
 ![](/data/20150826/3.jpg)

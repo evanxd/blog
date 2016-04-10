@@ -7,7 +7,6 @@ featured_image: /data/20150826/11.jpg
 ---
 
 Colour a bowl.
-
 ![](/data/20150826/9.jpg)
 ![](/data/20150826/10.jpg)
 ![](/data/20150826/11.jpg)
