@@ -7,4 +7,4 @@ sidebar_image: /images/cover.jpg
 markdown: redcarpet
 highlighter: pygments
 permalink: /:year/:month/:day/:title
-source: /blog
+data_dir: data
