@@ -7,11 +7,11 @@ featured_image: /data/20150826/11.jpg
 ---
 
 Colour a bowl.
-![](/data/20150826/9.jpg)
+![](/blog/data/20150826/9.jpg)
 
-![](/data/20150826/10.jpg)
-![](/data/20150826/11.jpg)
-![](/data/20150826/12.jpg)
-![](/data/20150826/13.jpg)
-![](/data/20150826/14.jpg)
-![](/data/20150826/15.jpg)
+![](/blog/data/20150826/10.jpg)
+![](/blog/data/20150826/11.jpg)
+![](/blog/data/20150826/12.jpg)
+![](/blog/data/20150826/13.jpg)
+![](/blog/data/20150826/14.jpg)
+![](/blog/data/20150826/15.jpg)
