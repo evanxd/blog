@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Be the JSMarionette Maintainer"
+title: "Became a JSMarionette Maintainer"
 date: 2013-08-06 14:49:00
 categories: fxos
 featured_image: /data/20130806/npm-js-marionette-maintainers.png
