@@ -1,4 +1,5 @@
 # Site settings
+baseurl: 'https://evanxd.io'
 title: 'Evan Tseng'
 tagline: 'Creater | Developer | Gamer'
 sidebar_image: /images/cover.jpg
