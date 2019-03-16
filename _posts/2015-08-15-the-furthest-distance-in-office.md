@@ -18,6 +18,7 @@ featured_image: /data/20150815/tagore.jpg
 而是　在同個辦公室裡
 不是個團隊
 ```
+——愛聞插低《辦公室最近與最遠的距離》
 
 ## 《世界上最近與最遠的距離》[2]
 ```
@@ -25,6 +26,7 @@ featured_image: /data/20150815/tagore.jpg
 不是生與死
 而是我就站在你面前你卻不知道我愛你
 ```
+——張小嫻《湖邊有顆許願樹》
 
 [1]: https://www.facebook.com/itoyxd/posts/10153079499306659
 [2]: https://jagwingchan.wordpress.com/2011/07/22/%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E9%81%99%E9%81%A0%E7%9A%84%E8%B7%9D%E9%9B%A2%E9%8C%AF%E8%AD%AF%E6%9D%BF%E7%B6%B2%E4%B8%8A%E6%B5%81%E5%82%B3%E7%9A%84%E5%85%B8%E6%95%85/
