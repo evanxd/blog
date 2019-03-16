@@ -1,11 +1,17 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head>  
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+  <!-- Open Graph data -->
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.baseurl }}{{ page.featured_image }}">
+  <meta property="og:description" content="{{ page.content }}">
+  <title>{{ page.title }}</title>
+  
   <!-- syntax highlighting CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
 
