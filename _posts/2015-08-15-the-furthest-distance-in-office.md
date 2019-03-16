@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "辦公室最遠與最近的距離（The Furthest And Closest Distance in Office）"
+title: "辦公室最遠與最近的距離"
 date: 2015-08-15 14:06:00
 categories: poetry
 featured_image: /data/20150815/tagore.jpg
