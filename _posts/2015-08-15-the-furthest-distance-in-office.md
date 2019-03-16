@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Furthest Distance in Office"
+title: "辦公室最遠與最近的距離（The Furthest And Closest Distance in Office）"
 date: 2015-08-15 14:06:00
 categories: poetry
 featured_image: /data/20150815/tagore.jpg
 ---
 
-## 《辦公室最近與最遠的距離》[1]
+## 《辦公室最遠與最近的距離》[1]
 ```
 辦公室最近的距離
 不是在辦公室裡　同在一張桌子
@@ -18,9 +18,9 @@ featured_image: /data/20150815/tagore.jpg
 而是　在同個辦公室裡
 不是個團隊
 ```
-——愛聞插低《辦公室最近與最遠的距離》
+——愛聞插低《辦公室最遠與最近的距離》
 
-## 《世界上最近與最遠的距離》[2]
+## 《世界上最遙遠的距離》[2]
 ```
 世界上最遙遠的距離
 不是生與死
