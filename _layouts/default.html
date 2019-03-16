@@ -3,8 +3,13 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>{{ site.title + page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Open Graph data -->
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:url" content="{{ site.baseurl }}">
+  <meta property="og:image" content="{{ site.baseurl }}{{ site.sidebar_image }}">
+  <meta property="og:description" content="{{ site.tagline }}">
+  <title>{{ site.title }}</title>
 
   <!-- syntax highlighting CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
