@@ -2,7 +2,7 @@
 layout: post
 title: "The Furthest Distance in Office"
 date: 2015-08-15 14:06:00
-categories: poet
+categories: poetry
 featured_image: /data/20150815/tagore.jpg
 ---
 
