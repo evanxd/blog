@@ -6,6 +6,8 @@ categories: life
 featured_image: /data/20190317/adventure.jpg
 ---
 
+![Evan JR.](/data/20190317/evan-jr.jpg)
+
 今天是小愛和我在柏林生活的一週年了。:)
 
 最近才知道，在小愛內心深處，夢想正在和小愛深談，祂正在分享關於追逐與完成夢想需要明白的事情。
