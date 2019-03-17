@@ -6,7 +6,7 @@ categories: life
 featured_image: /data/20190317/adventure.jpg
 ---
 
-![Evan JR.](/data/20190317/evan-jr.jpg)
+![Evan JR.](/blog//data/20190317/evan-jr.jpg)
 
 今天是小愛和我在柏林生活的一週年了。:)
 
